@@ -1,0 +1,7 @@
+Recipe: Paratha
+Ingredients:
+- Wheat flour
+- Water
+- Oil
+- Salt
+- Potato

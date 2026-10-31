@@ -1,0 +1,8 @@
+Recipe: Khichdi
+Ingredients:
+- Rice
+- Lentils
+- Water
+- Ghee
+- Salt
+- Turmeric

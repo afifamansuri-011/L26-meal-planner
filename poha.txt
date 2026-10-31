@@ -1,0 +1,9 @@
+Recipe: Poha
+Ingredients:
+- Flattened rice
+- Onion
+- Peanuts
+- Mustard seeds
+- Curry leaves
+- Oil
+- Lemon

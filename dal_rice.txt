@@ -1,0 +1,9 @@
+Recipe: Dal Rice
+Ingredients:
+- Lentils
+- Rice
+- Onion
+- Tomato
+- Oil
+- Salt
+- Turmeric

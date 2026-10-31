@@ -1,0 +1,9 @@
+Recipe: Upma
+Ingredients:
+- Semolina
+- Onion
+- Green chilli
+- Mustard seeds
+- Curry leaves
+- Oil
+- Water

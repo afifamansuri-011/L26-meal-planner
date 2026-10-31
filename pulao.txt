@@ -1,0 +1,8 @@
+Recipe: Pulao
+Ingredients:
+- Rice
+- Mixed vegetables
+- Onion
+- Oil
+- Salt
+- Whole spices

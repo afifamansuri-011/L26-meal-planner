@@ -1,0 +1,9 @@
+Recipe: Pasta
+Ingredients:
+- Pasta
+- Tomato
+- Onion
+- Garlic
+- Oil
+- Salt
+- Mixed herbs
