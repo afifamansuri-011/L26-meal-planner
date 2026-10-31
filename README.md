@@ -7,15 +7,18 @@
 **Guide:** Dr. Anjum Y. Mansuri
 
 ## Overview
+
 A menu-driven Bash project for weekly meal planning, recipe viewing, grocery-list generation, activity logging, and compressed backups.
 
 ## Run
+
 ```bash
 chmod +x main.sh
 ./main.sh
 ```
 
 ## Menu
+
 1. Create weekly meal plan (Monday–Sunday)
 2. View available recipes
 3. View saved weekly plan
@@ -25,6 +28,7 @@ chmod +x main.sh
 7. Exit
 
 ## Command-line options
+
 ```bash
 ./main.sh --help
 ./main.sh --backup
@@ -34,6 +38,7 @@ chmod +x main.sh
 `--cron` runs the grocery-list task manually. Automatic crontab scheduling was not verified in Webminal because its cron spool directory was unavailable.
 
 ## Project structure
+
 - `main.sh` — main Bash application
 - `data/recipes/` — 10 recipe files
 - `reports/` — generated weekly plan and grocery list
@@ -41,3 +46,12 @@ chmod +x main.sh
 - `logs/` — activity log
 
 **Package note:** This local copy has been reconstructed from the project structure, feature list, recipe names, and successful test outputs available from the Webminal session. Generated reports/logs are created when you run the application.
+
+## Project Guide
+
+This project was completed under the guidance of  
+**Dr. Anjum Y. Mansuri**, Assistant Professor, Computer Applications,  
+LJ Institute of Computer Applications, LJ University, Ahmedabad.  
+GitHub: [@anjum-mansuri](https://github.com/anjum-mansuri)
+
+**OS Linux Lab 260120510 | Project ID: L26**
